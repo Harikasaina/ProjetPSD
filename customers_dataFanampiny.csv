@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,Gender,Location,Join_Date,Total_Spent
+C001,Alice,25,F,Paris,2024-01-15,662.59
+C002,Bob,34,M,Lyon,2023-10-04,4592.86
+C003,Charlie,29,M,Marseille,2021-03-31,1193.6
+C004,Diana,41,F,Toulouse,2022-05-04,3608.66
+C005,Ethan,22,M,Nice,2021-02-09,1970.22
+C006,Fiona,38,F,Nantes,2023-06-03,4206.14
+C007,George,30,M,Strasbourg,2021-11-05,1960.52
+C008,Hana,27,F,Montpellier,2021-03-08,877.3
+C009,Ian,45,M,Bordeaux,2023-03-10,2333.07
+C010,Julia,33,F,Lille,2024-02-06,3206.85

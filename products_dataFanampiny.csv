@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Price,Brand
+P001,Smartphone X10,Electronics,499.99,TechOne
+P002,Laptop Pro 15,Computers,1199.99,CompX
+P003,Wireless Headphones,Audio,89.99,SoundMax
+P004,Smartwatch Fit2,Wearables,149.99,FitLife
+P005,Bluetooth Speaker,Audio,59.99,SoundMax
+P006,4K Monitor,Computers,329.99,ViewPro
+P007,Gaming Mouse,Accessories,49.99,Clicker
+P008,Mechanical Keyboard,Accessories,79.99,Clicker
+P009,Tablet Z8,Electronics,299.99,TechOne
+P010,USB-C Hub,Accessories,39.99,UniConnect

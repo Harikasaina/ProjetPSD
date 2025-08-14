@@ -1,0 +1,101 @@
+Customer_ID,Name,Age,Gender,Location,Join_Date,Total_Spent,Products_Bought,Cluster
+2001,Laura,26,Female,Atlanta,2023-01-27,481.85,3.0,2
+2002,Ethan,21,Male,New York,2023-03-30,0.0,0.0,0
+2003,Laura,63,Female,Phoenix,2022-05-01,0.0,0.0,3
+2004,Olivia,55,Female,Seattle,2022-08-18,372.7,3.0,2
+2005,Sophie,24,Female,Atlanta,2022-12-02,73.6,1.0,0
+2006,Lucas,47,Male,Dallas,2022-08-07,20.18,1.0,3
+2007,Lucas,53,Male,Phoenix,2022-10-08,482.0,3.0,2
+2008,James,62,Male,New York,2022-10-17,284.38,1.0,1
+2009,Olivia,40,Female,Atlanta,2022-11-30,0.0,0.0,3
+2010,Alice,45,Female,Chicago,2022-05-16,70.28,1.0,1
+2011,Ethan,28,Male,Miami,2022-08-08,0.0,0.0,0
+2012,Laura,36,Female,Denver,2022-05-16,0.0,0.0,3
+2013,Lucas,59,Male,Atlanta,2022-11-19,0.0,0.0,3
+2014,Chloe,53,Female,Denver,2022-05-02,235.86,1.0,1
+2015,Liam,35,Male,New York,2023-04-08,197.24,1.0,0
+2016,Noah,49,Male,Atlanta,2023-01-15,113.21,1.0,1
+2017,Liam,39,Male,Atlanta,2023-02-17,0.0,0.0,3
+2018,Logan,44,Male,Chicago,2022-11-12,0.0,0.0,3
+2019,Eva,26,Female,Phoenix,2022-12-09,32.65,1.0,0
+2020,Grace,63,Female,Seattle,2022-07-14,0.0,0.0,3
+2021,Alice,61,Female,Los Angeles,2022-06-20,0.0,0.0,3
+2022,Liam,39,Male,Miami,2023-03-13,811.8699999999999,4.0,2
+2023,Liam,55,Male,Los Angeles,2022-08-19,104.21,1.0,1
+2024,Mason,22,Male,Seattle,2022-06-17,644.13,3.0,2
+2025,Charlie,58,Male,Atlanta,2023-01-19,0.0,0.0,3
+2026,Diana,44,Female,Miami,2023-01-31,472.98,2.0,2
+2027,Laura,64,Female,Seattle,2022-08-24,26.8,1.0,1
+2028,Hannah,24,Female,Denver,2023-03-21,191.12,1.0,0
+2029,John,21,Male,Phoenix,2022-06-06,0.0,0.0,0
+2030,Emma,47,Female,Phoenix,2023-03-28,195.55,1.0,1
+2031,Laura,62,Female,Seattle,2022-10-13,0.0,0.0,3
+2032,Liam,44,Male,Seattle,2022-06-20,292.31,2.0,1
+2033,Sophie,22,Female,Miami,2022-07-23,32.82,1.0,0
+2034,Charlie,57,Male,Atlanta,2022-08-26,0.0,0.0,3
+2035,Olivia,65,Female,New York,2022-10-14,0.0,0.0,3
+2036,Diana,59,Female,Miami,2023-01-08,440.49,3.0,2
+2037,Diana,18,Female,Phoenix,2022-11-24,128.2,1.0,0
+2038,Sophie,19,Female,Los Angeles,2023-04-16,185.51,1.0,0
+2039,John,27,Male,Atlanta,2022-12-30,740.0699999999999,3.0,2
+2040,Eva,48,Female,Los Angeles,2022-08-30,0.0,0.0,3
+2041,Chloe,38,Female,Phoenix,2023-04-12,333.11,2.0,2
+2042,Hannah,53,Female,Atlanta,2022-07-13,488.26,3.0,2
+2043,Lucas,43,Male,Denver,2023-04-01,281.97,1.0,1
+2044,Noah,53,Male,Denver,2023-04-13,136.09,2.0,1
+2045,Lucas,47,Male,Dallas,2022-12-17,0.0,0.0,3
+2046,Eva,55,Female,Dallas,2022-05-11,217.89,1.0,1
+2047,Diana,48,Female,Los Angeles,2022-07-05,0.0,0.0,3
+2048,Noah,59,Male,Dallas,2023-04-25,86.49,1.0,1
+2049,John,46,Male,Chicago,2022-11-01,0.0,0.0,3
+2050,Emma,62,Female,Seattle,2023-03-08,0.0,0.0,3
+2051,Sophie,35,Female,Miami,2022-09-13,360.23,2.0,2
+2052,Chloe,52,Female,Los Angeles,2022-07-15,0.0,0.0,3
+2053,Olivia,53,Female,Houston,2022-11-12,0.0,0.0,3
+2054,Ethan,51,Male,Houston,2022-09-13,153.14,1.0,1
+2055,Liam,35,Male,Los Angeles,2022-06-27,0.0,0.0,0
+2056,Alice,41,Female,Denver,2022-10-28,291.72,1.0,1
+2057,Ethan,55,Male,Denver,2022-05-11,0.0,0.0,3
+2058,Logan,55,Male,Atlanta,2022-09-29,146.45999999999998,2.0,1
+2059,Noah,35,Male,Miami,2022-12-26,279.8,3.0,2
+2060,Logan,61,Male,Atlanta,2022-11-30,0.0,0.0,3
+2061,Diana,24,Female,Chicago,2022-10-22,0.0,0.0,0
+2062,Laura,41,Female,Chicago,2022-08-27,0.0,0.0,3
+2063,Emma,25,Female,Dallas,2023-02-12,257.4,1.0,0
+2064,Liam,38,Male,New York,2023-04-14,0.0,0.0,3
+2065,Lucas,49,Male,Denver,2023-04-24,0.0,0.0,3
+2066,Sophie,39,Female,Los Angeles,2022-11-03,0.0,0.0,3
+2067,Grace,52,Female,Dallas,2023-03-23,137.35,1.0,1
+2068,Emma,44,Female,New York,2022-07-16,0.0,0.0,3
+2069,John,19,Male,Miami,2022-06-01,627.04,4.0,2
+2070,Laura,59,Female,Denver,2022-07-19,0.0,0.0,3
+2071,Logan,35,Male,Atlanta,2022-10-29,266.9,1.0,0
+2072,James,58,Male,Chicago,2022-08-15,117.96,1.0,1
+2073,Grace,29,Female,Dallas,2022-10-24,204.14,1.0,0
+2074,Laura,24,Female,Seattle,2023-01-06,286.25,1.0,0
+2075,Noah,19,Male,Atlanta,2022-09-16,0.0,0.0,0
+2076,John,30,Male,Denver,2022-11-09,130.28,1.0,0
+2077,Olivia,22,Female,Seattle,2022-06-08,281.28,2.0,0
+2078,Charlie,45,Male,Chicago,2022-10-22,0.0,0.0,3
+2079,Olivia,41,Female,Dallas,2023-03-07,706.5799999999999,4.0,2
+2080,Logan,58,Male,Dallas,2022-05-24,0.0,0.0,3
+2081,James,47,Male,Seattle,2023-02-16,332.03,3.0,2
+2082,Ethan,63,Male,Houston,2022-05-02,277.82,2.0,1
+2083,Grace,50,Female,Miami,2022-10-07,236.53,1.0,1
+2084,Lucas,43,Male,Chicago,2022-05-12,0.0,0.0,3
+2085,Eva,44,Female,Houston,2022-06-03,157.45000000000002,2.0,1
+2086,Bob,25,Male,New York,2022-11-18,225.32,1.0,0
+2087,Mason,32,Male,New York,2022-07-25,43.5,1.0,0
+2088,Grace,23,Female,New York,2022-09-10,190.27,1.0,0
+2089,Hannah,55,Female,Seattle,2022-05-14,425.18,1.0,1
+2090,Mason,25,Male,New York,2023-01-25,145.9,1.0,0
+2091,Logan,52,Male,Phoenix,2022-05-21,225.7,1.0,1
+2092,Diana,25,Female,Los Angeles,2022-07-08,92.99,1.0,0
+2093,Mason,62,Male,Phoenix,2023-02-01,369.65999999999997,2.0,1
+2094,Ethan,65,Male,Chicago,2023-03-06,127.38999999999999,2.0,1
+2095,Mason,59,Male,Los Angeles,2023-04-20,0.0,0.0,3
+2096,Chloe,36,Female,Phoenix,2022-07-29,46.48,1.0,0
+2097,James,31,Male,Seattle,2022-07-08,177.4,1.0,0
+2098,Lucas,32,Male,Phoenix,2023-02-11,0.0,0.0,0
+2099,Charlie,44,Male,Seattle,2022-08-12,196.26,1.0,1
+2100,John,44,Male,Seattle,2023-03-29,0.0,0.0,3
